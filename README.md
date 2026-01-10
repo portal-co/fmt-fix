@@ -1,13 +1,14 @@
-# fmt-fix
+# portal-solutions-fmt-fix
 
 ## Description
-Project fmt-fix
+A formatting or fix utility, likely traversing directories (`walkdir`) to apply code style corrections.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Automate code formatting/fixes
+- [ ] Recursive directory processing
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
